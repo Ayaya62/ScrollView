@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">ScrollView</string>
+    <string name="txt_desc_pay">To wallet, bank or mobile number</string>
+    <string name="txt_desc_req"><string name="txt_desc_pay">To wallet, bank or mobile number</string></string>
+    <style name="Base.Theme.ScrollView" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.ScrollView" parent="Base.Theme.ScrollView"/>
+</resources>

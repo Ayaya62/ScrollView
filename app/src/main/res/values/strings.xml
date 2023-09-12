@@ -1,5 +1,14 @@
 <resources>
     <string name="app_name">ScrollView</string>
-    <string name="txt_desc_pay">To wallet, bank or mobile number</string>
-    <string name="txt_desc_req"><string name="txt_desc_pay">To wallet, bank or mobile number</string></string>
+    <string name="txt_desc_pay">To wallet, bank or mobile numberTo wallet, bank or mobile numberTo wallet, bank or mobile number
+    To wallet, bank or mobile numberTo wallet, bank or mobile numberTo wallet, bank or mobile number</string>
+    <string name="txt_desc_req">Request money from Cowry LoansRequest money from Cowry Loans
+        Request money from Cowry LoansRequest money from Cowry LoansRequest money from
+        Cowry LoansRequest money from Cowry LoansRequest money from Cowry LoansRequest money from Cowry Loans</string>
+    <string name="txt_desc_bill">Zero transactions
+fees when you payZero transactions
+fees when you payZero transactions
+fees when you payZero transactions
+fees when you payZero transactions
+fees when you pay</string>
 </resources>

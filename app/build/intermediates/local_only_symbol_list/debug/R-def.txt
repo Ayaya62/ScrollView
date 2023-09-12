@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable baseline_account_circle_24
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id balance
+id guideline_1
+id icon_person
+id name
+id scroll_1
+id scroll_2
+id scroll_3
+id scroll_4
+id txt_bill
+id txt_pay
+id txt_req
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string txt_desc_pay
+string txt_desc_req
+style Base.Theme.ScrollView
+style Theme.ScrollView
+xml backup_rules
+xml data_extraction_rules
