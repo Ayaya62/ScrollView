@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">ScrollView</string>
     <string name="txt_desc_pay">To wallet, bank or mobile number</string>
+    <string name="txt_desc_req"><string name="txt_desc_pay">To wallet, bank or mobile number</string></string>
 </resources>
